@@ -1,0 +1,7 @@
+R = 9685
+Pair index = 185
+Department A = 8
+Department B = 37
+Number of random networks = 33
+Swap multiplier = 6
+Random seed = 9685
